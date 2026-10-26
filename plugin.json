@@ -1,0 +1,9 @@
+{
+	"name": "MemorableScreenshots",
+	"common_name": "Memorable Screenshots",
+	"author": "garments",
+	"description": "Uses your in-game screenshots as your game's hero like in the old days of steam",
+	"version": "1.0.0",
+	"useBackend": true,
+	"backendType": "lua"
+}
